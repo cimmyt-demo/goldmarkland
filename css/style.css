@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #00B98E;
+    --primary: #A37F2F;
     --secondary: #FF6922;
     --light: #EFFDF5;
-    --dark: #0E2E50;
+    --dark: black;
 }
 
 .back-to-top {
@@ -335,7 +335,7 @@
 }
 
 .testimonial-carousel .testimonial-item .border {
-    border: 1px dashed rgba(0, 185, 142, .3) !important;
+    border: 1px dashed rgba(250, 145, 0, .3) !important;
 }
 
 .testimonial-carousel .owl-nav {
